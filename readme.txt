@@ -22,33 +22,47 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 2. What (a) basic features, (b) CSS features, and (c) advanced features did you include in your portfolio?
 
 (a) Basic features
-
+- Image with text
+- Headings and paragraph text
+- Used multiple HTML pages
+- External links for Linkedin, Github, and resume pdf
 
 
 (b) CSS features
-
+- Added the padding and margins
+- Modified the colors for the text and links
 
 
 (c) Advanced features
-
+- Navigation bar for clicking the hyperlinks
+- linked downloadable resume pdf
 
 
 
 3. Did you ignore any of the warnings or errors presented by the accessibility checker? If so, why does this not seem like an accessibility concern? If it's useful, you can consolidate your thoughts on multiple warnings/errors if the rationale is similar.
-
+I did not get any accessibility errors when I uploaded my files on AChecker.
 
 
 4. How long, in hours, did it take you to complete this assignment?
-
+It took me 3 hours to complete the assignment. I wanted to get a good grasp of html and css as I was not familiar with it before.
 
 
 5. What online resources did you consult when completing this assignment? (list specific URLs, describe queries to Generative AI, or use of AI-based code completion)
+I used Chatgpt to ask how to add a resume pdf to html since I wanted to add my resume to the portfolio as well. The response it generated was this:
 
+<section>
+  <h2>Resume</h2>
+  <p>
+    <a href=".../your_resume.pdf" target="_blank">
+      Download my resume (PDF)
+    </a>
+  </p>
+</section>
 
 
 6. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
-
+N/A
 
 
 7. Is there anything special we need to know in order to run your code?
-
+N/A
